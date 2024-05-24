@@ -111,7 +111,7 @@
     "nib": "~1.1.2",
     "omnipotent": "^1.2.1",
     "omniscient": "^4.1.1",
-    "pm2": "^1.1.3",
+    "pm2": "^5.4.0",
     "prelude-ls": "^1.1.2",
     "pretty-error": "^2.0.0",
     "react": "^15.3.1",
