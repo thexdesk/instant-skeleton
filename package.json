@@ -130,7 +130,7 @@
     "throttle-debounce": "^1.0.1",
     "tls": "0.0.1",
     "uuid": "^2.0.2",
-    "webpack": "^1.13.2",
+    "webpack": "^5.94.0",
     "webpack-sources": "^0.1.2",
     "ws": "^1.1.1"
   },
