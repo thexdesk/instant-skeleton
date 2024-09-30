@@ -90,7 +90,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "co": "^4.6.0",
-    "css-loader": "^0.24.0",
+    "css-loader": "^1.0.0",
     "dotenv": "^2.0.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "immstruct": "^2.0.0",
